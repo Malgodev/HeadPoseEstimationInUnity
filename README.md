@@ -52,12 +52,10 @@ A simple project to detect the pose landmark of human and it application.
 
 Currently I only do the first approach. Right below is the result, I also add 2 demo video 
 
+## 🎬 Demo Videos
 
-<video src="https://raw.githubusercontent.com/Malgodev/HeadPoseEstimationInUnity/master/close.mp4" 
-       width="640" height="360" controls>
-Your browser does not support the video tag.
-</video>
-
+- [Close Demo](https://github.com/Malgodev/HeadPoseEstimationInUnity/blob/master/close.mp4)
+- [Far Demo](https://github.com/Malgodev/HeadPoseEstimationInUnity/blob/master/far.mp4)
 
 | Component | Specification |
 |------------|----------------|
